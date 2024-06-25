@@ -1,0 +1,103 @@
+.box1 {
+  box-sizing: border-box;
+  background-color: yellow;
+  width: 25%;
+
+  aspect-ratio: 1;
+  border: 10px solid rgb(216, 105, 142);
+}
+
+.box2 {
+  box-sizing: border-box;
+
+  background-color: red;
+  width: 25%;
+  display: inline-block;
+  aspect-ratio: 1;
+ 
+}
+.box11 {
+  box-sizing: border-box;
+  background-color: yellow;
+  width: 25%;
+
+  aspect-ratio: 1;
+  border: 10px solid rgb(216, 105, 142);
+
+  display: inline-block;
+}
+.box2a {
+  box-sizing: border-box;
+
+  background-color: red;
+  width: 50%;
+
+  height: 25%;
+ 
+}
+.box2b {
+  box-sizing: border-box;
+
+  background-color: red;
+  width: 25%;
+  display: inline-block;
+  aspect-ratio: 1;
+  display: inline-block;
+  padding-top: 5px solid red;
+}
+.box2c {
+  box-sizing: border-box;
+
+  background-color: red;
+  width: 25%;
+  display: inline-block;
+  aspect-ratio: 1;
+  display: inline-block;
+}
+.box12 {
+  box-sizing: border-box;
+  background-color: yellow;
+  width: 25%;
+
+  aspect-ratio: 1;
+  border: 10px solid rgb(216, 105, 142);
+  display: inline-block;
+}
+
+.box3a {
+  box-sizing: border-box;
+
+  background-color: red;
+  width: 25%;
+  display: inline-block;
+  aspect-ratio: 1;
+  display: inline-block;
+}
+.box3b {
+  box-sizing: border-box;
+
+  background-color: red;
+  width: 25%;
+  display: inline-block;
+  aspect-ratio: 1;
+  display: inline-block;
+}
+.box3c {
+  box-sizing: border-box;
+
+  background-color: red;
+  width: 25%;
+  display: inline-block;
+  aspect-ratio: 1;
+  display: inline-block;
+}
+.box14 {
+  box-sizing: border-box;
+  background-color: yellow;
+  width: 25%;
+
+  aspect-ratio: 1;
+  border: 10px solid rgb(216, 105, 142);
+
+  display: inline-block;
+}

@@ -1,0 +1,44 @@
+body{
+    border: 10px solid palevioletred;
+    margin: 4px 0 10px 5px;
+}
+
+
+.green-box{
+    box-sizing: border-box;
+    background-color: greenyellow;
+    width: 25%;
+    aspect-ratio: 1;
+    margin-left: 75%;
+    
+    
+}
+.green-box2{
+    box-sizing: border-box;
+    background-color: greenyellow;
+    width: 25%;
+    aspect-ratio: 1;
+    margin-left: 50%;
+    border: 10px solid gray;
+}
+.green-box3{
+    box-sizing: border-box;
+    background-color: greenyellow;
+    width: 25%;
+    aspect-ratio: 1;
+    margin-left: 25%;
+   ;
+
+}
+.green-box4{
+    box-sizing: border-box;
+    background-color: greenyellow;
+    width: 25%;
+    aspect-ratio: 1;
+    margin-left: 0;
+    border: 10px solid gray;
+    margin-bottom: 2px;
+
+}
+
+
