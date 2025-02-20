@@ -43,7 +43,7 @@
   display: inline-block;
   aspect-ratio: 1;
   display: inline-block;
-  padding-top: 5px solid red;
+  
 }
 .box2c {
   box-sizing: border-box;
@@ -71,7 +71,7 @@
   width: 25%;
   display: inline-block;
   aspect-ratio: 1;
-  display: inline-block;
+ 
 }
 .box3b {
   box-sizing: border-box;
